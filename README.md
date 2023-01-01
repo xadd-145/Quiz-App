@@ -6,8 +6,8 @@
 
 I made this for my Internship.
 
-![image](https://user-images.githubusercontent.com/81074236/210182669-1619b19f-58e0-4278-a7c5-018761494af5.png)
-![image](https://user-images.githubusercontent.com/81074236/210182656-ef8b08e2-64d2-4319-96bc-90290f4a8c61.png)
-![image](https://user-images.githubusercontent.com/81074236/210182661-13f643b1-35dd-4d2c-8842-36cbd3722eef.png)
-![image](https://user-images.githubusercontent.com/81074236/210182675-29317d50-d7cc-4a2a-884e-2c7a887bc153.png)
+![image](https://user-images.githubusercontent.com/81074236/210182713-0b6eaca3-9ee2-494f-b518-3f0d2eb7cd88.png)
+![image](https://user-images.githubusercontent.com/81074236/210182699-2aaea358-4208-4d15-ad39-67533fc674a2.png)
+![image](https://user-images.githubusercontent.com/81074236/210182705-50543f51-dc55-4537-89cc-af99cff66397.png)
+![image](https://user-images.githubusercontent.com/81074236/210182729-bb535c0e-77ca-426c-8c4d-bd6d697704c4.png)
 
